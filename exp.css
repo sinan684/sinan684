@@ -1,0 +1,19 @@
+.div1{ 
+       opacity:1.0;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+ h1{font-style: oblique; font-size: 90px;} 
+
+
+.div2{display: flex;
+justify-content:right;  
+
+}
+
+
+
+.div3{display: flex;
+justify-content:space-around;      
+}
